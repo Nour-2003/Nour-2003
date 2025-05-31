@@ -1,64 +1,27 @@
-<h1 align="center">Hey there 👋, I'm Nour Eldin Hesham </h1>
+<h1 align="center">Hi 👋, I'm Nour Eldin Hesham</h1>
+<h3 align="center">🚀 Flutter Developer | 💻 Front-End Enthusiast | 🧠 Tech Leader | 🎓 Ain Shams University</h3>
 
-<p align="center">
-  🚀 Flutter Developer | 💻 Front-End Enthusiast | 🧠 Tech Leader | 🎓 Ain Shams University
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nour-2003&label=Profile%20views&color=0e75b6&style=flat" alt="nour-2003" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nour-2003" alt="nour-2003" /></a> </p>
+
+- 🌱 I’m currently learning **Flutter and Angular**
+
+- 📫 How to reach me **noureldeanh@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1L7k3NXRZSl1TJbzHqmvqBof5ksn6k2-H/view?usp=sharing](https://drive.google.com/file/d/1L7k3NXRZSl1TJbzHqmvqBof5ksn6k2-H/view?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nour-eldin-hesham-466ab2256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nour-eldin-hesham-466ab2256" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/noureldeanh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="noureldeanh" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
-  <a href="mailto:[your@email.com]"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white"></a>
-  <a href="https://github.com/[your-username]"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&style=for-the-badge&logoColor=white"></a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nour-2003&show_icons=true&locale=en&layout=compact" alt="nour-2003" /></p>
 
-## 🚀 About Me
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nour-2003&show_icons=true&locale=en" alt="nour-2003" /></p>
 
-- 🎓 Computer Science Student @ Ain Shams University  
-- 🧠 Passionate about building scalable apps with **Flutter & Firebase**
-- 🤝 Vice President – Leading and mentoring teams to build real-world projects
-- 📱 Currently working on: **Nilelingo – a multilingual education app**
-- 🌱 Learning advanced **State Management, Clean Architecture & Testing**
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Front-End
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-### 🔧 Backend & Tools
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=[your-username]&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-## 🌍 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/[your-linkedin])
-- ✉️ [Email](mailto:[your@email.com])
-- 📌 [Portfolio](https://[your-portfolio].com) *(optional)*
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[your-username]&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nour-2003&" alt="nour-2003" /></p>
