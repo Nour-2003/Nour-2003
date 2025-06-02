@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nour Eldin Hesham</h1>
 <h3 align="center">🚀 Flutter Developer | 💻 Front-End Enthusiast | 🧠 Tech Leader | 🎓 Ain Shams University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nour-2003&label=Profile%20views&color=0e75b6&style=flat" alt="nour-2003" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nour-2003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nour-2003" alt="nour-2003" /></a> </p>
 
