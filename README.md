@@ -59,8 +59,3 @@
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nour-2003&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-
-<p align="center">
-  <img src="https://images.weserv.nl/?url=streak-stats.demolab.com/?user=Nour-2003&theme=algolia&hide_border=false" alt="GitHub streak stats" />
-</p>
-
