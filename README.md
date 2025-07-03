@@ -61,6 +61,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nour-2003&theme=algolia&hide_border=false" alt="GitHub streak stats" />
+  <img src="https://images.weserv.nl/?url=streak-stats.demolab.com/?user=nour-2003&theme=algolia&hide_border=false" alt="GitHub streak stats" />
 </p>
 
