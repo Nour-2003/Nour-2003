@@ -6,9 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nour-2003&theme=flat&row=1&column=6" alt="GitHub Profile Trophy" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=nour-2003&theme=algolia&no-frame=true&margin-w=10" alt="GitHub Profile Trophy" />
 </p>
 
 ---
@@ -62,6 +60,7 @@
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nour-2003&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nour-2003" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nour-2003&theme=algolia" alt="GitHub Streak" />
 </p>
+
