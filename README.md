@@ -61,6 +61,6 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nour-2003&theme=algolia&hide_border=false" alt="GitHub contribution streak for Nour Eldin Hesham" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nour-2003&show_icons=true&theme=algolia" alt="GitHub stats" />
 </p>
 
