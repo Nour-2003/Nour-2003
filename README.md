@@ -6,7 +6,9 @@
 </p>
 
 <p align="center">
+  <!-- GitHub Profile Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=nour-2003&theme=algolia&no-frame=true&margin-w=10" alt="GitHub Profile Trophy" />
+  <!-- If not visible, the service might be temporarily down. -->
 </p>
 
 ---
