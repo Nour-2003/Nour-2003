@@ -6,10 +6,9 @@
 </p>
 
 <p align="center">
-  <!-- GitHub Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=nour-2003&theme=algolia&no-frame=true&margin-w=10" alt="GitHub Profile Trophy" />
-  <!-- If not visible, the service might be temporarily down. -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nour-2003&theme=react-dark" alt="GitHub Contribution Graph" />
 </p>
+
 
 ---
 
