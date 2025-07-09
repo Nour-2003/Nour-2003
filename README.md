@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nour-2003&theme=react-dark" alt="GitHub Contribution Graph" />
+  <img src="https://img.shields.io/github/followers/nour-2003?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/nour-2003?label=Stars&style=social" alt="GitHub Stars" />
 </p>
 
 
