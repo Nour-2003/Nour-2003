@@ -5,10 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=nour-2003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+
 <p align="center">
-  <img src="https://img.shields.io/github/followers/nour-2003?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/nour-2003?label=Stars&style=social" alt="GitHub Stars" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nour-2003&theme=algolia&no-frame=true&margin-w=10" alt="GitHub Profile Trophy" />
 </p>
+
+
 
 
 ---
