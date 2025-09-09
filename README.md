@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **Web and Mobile Application Development using Flutter**
 - 🌍 Visit my website: [Nour Eldin](https://nour-2003.github.io/Portfolio/)
 - 📫 Reach me at: **noureldeanh@gmail.com**
-- 📄 [Check my resume](https://drive.google.com/file/d/1L7k3NXRZSl1TJbzHqmvqBof5ksn6k2-H/view?usp=sharing)
+- 📄 [Check my resume](https://drive.google.com/file/d/17fkNA796OUkDnJrrj4U-5-XrV3j2PcJN/view?usp=sharing)
 
 ---
 
