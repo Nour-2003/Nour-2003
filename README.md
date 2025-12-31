@@ -1,13 +1,15 @@
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Nour+Eldin+Hesham;Flutter+Developer+🚀;Front-End+Enthusiast+💻;Always+Learning+New+Things+🧠" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Nour+Eldin+Hesham;Flutter+Developer+%F0%9F%9A%80;Front-End+Enthusiast+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%A7%A0" />
+<p align="center">
+  🚀 <strong>Flutter Developer</strong> | 💻 <strong>Front-End Enthusiast</strong> | 🧠 <strong>Tech Leader</strong><br/>
+  🎓 <strong>Ain Shams University</strong>
+</p>
 
-### 🚀 Flutter Developer | 💻 Front-End Enthusiast | 🧠 Tech Leader  
-🎓 **Ain Shams University**
-
-<img src="https://komarev.com/ghpvc/?username=nour-2003&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nour-2003&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
+</p>
 
 ---
 
@@ -36,46 +38,45 @@
 ## 🛠️ Tech Stack
 
 ### 🚀 Mobile & Front-End
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,angular,react,html,css,bootstrap,ts,js" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,angular,react,html,css,bootstrap,ts,js" />
 </p>
 
 ### ⚙️ Backend & Databases
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb" />
 </p>
 
 ### 🧠 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,java,cs" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,cs" />
 </p>
 
 ---
 
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nour-2003&theme=algolia&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nour-2003&theme=algolia&no-frame=true&margin-w=15&cache_seconds=86400" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nour-2003&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nour-2003&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nour-2003&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nour-2003&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nour-2003&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nour-2003&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
-<div align="center">
+---
 
-### ⚡ “Code. Learn. Build. Repeat.”
-
-⭐ If you like my work, consider starring my repositories!
-
-</div>
+<p align="center">
+  ⚡ <em>“Code. Learn. Build. Repeat.”</em><br/><br/>
+  ⭐ If you like my work, consider starring my repositories!
+</p>
