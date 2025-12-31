@@ -1,0 +1,33 @@
+name: Update GitHub Stats Images
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Stats Images
+        uses: Platane/snk@v3
+        with:
+          github_user_name: nour-2003
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Generate GitHub Stats
+        run: |
+          mkdir -p dist
+          # Generate stats using curl
+          curl -o dist/stats.svg "https://github-readme-stats.vercel.app/api?username=nour-2003&show_icons=true&theme=dark&hide_border=true"
+          curl -o dist/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=nour-2003&layout=compact&theme=dark&hide_border=true"
+          curl -o dist/streak.svg "https://streak-stats.demolab.com/?user=nour-2003&theme=dark&hide_border=true"
+          curl -o dist/trophy.svg "https://github-profile-trophy.vercel.app/?username=nour-2003&theme=dark&no-frame=true"
+
+      - name: Upload to Gist
+        uses: exuanbo/actions-deploy-gist@v1
+        with:
+          token: ${{ secrets.GIST_TOKEN }}
+          gist_id: YOUR_GIST_ID_HERE  # Replace with your Gist ID
+          file_path: ./dist/*.svg
