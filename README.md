@@ -61,6 +61,21 @@
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nour-2003&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nour-2003&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nour-2003&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+</p>
+
+---
+
 <p align="center">
   ⚡ <em>“Code. Learn. Build. Repeat.”</em><br/><br/>
   ⭐ If you like my work, consider starring my repositories!
