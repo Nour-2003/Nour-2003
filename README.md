@@ -54,23 +54,24 @@
 
 ---
 
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nour-2003&theme=algolia&no-frame=true&margin-w=15" />
-</p>
----
-
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://stats.drewcov.tech/api?username=nour-2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://stats.drewcov.tech/api/top-languages/?username=nour-2003&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
-</p>
----
 
-## 🔥 GitHub Streak
+### 📈 Profile Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nour-2003&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <!-- Primary with fallback -->
+  <img src="https://stats.drewcov.tech/api?username=nour-2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+  <img src="https://stats.drewcov.tech/api/top-languages/?username=nour-2003&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165" alt="Top Languages"/>
 </p>
+
+### 🔥 Contribution Streak
+<p align="center">
+  <img src="https://streak.demolab.com/?user=nour-2003&theme=tokyonight&hide_border=true&type=svg" alt="GitHub Streak"/>
+</p>
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nour-2003&theme=radical&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub Trophies"/>
+</p>>
 
 ---
 
