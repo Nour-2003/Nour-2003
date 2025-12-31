@@ -56,27 +56,50 @@
 
 ## 📊 GitHub Stats
 
-### 🎯 Basic Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nour-2003&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" 
-       width="48%"
-       onerror="this.style.display='none'"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nour-2003&theme=dark&hide_border=true&layout=compact&langs_count=6&exclude_repo=github-readme-stats" 
-       width="48%"
-       onerror="this.style.display='none'"/>
-</p>
-
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nour-2003&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
-       width="100%"
-       onerror="this.style.display='none'"/>
-</p>
-
-### ⚡ Alternative View
+### 📈 Activity Overview
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nour-2003&theme=github_dark" width="100%"/>
+</p>
+
+### 📊 Contribution Metrics
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nour-2003&theme=github_dark" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nour-2003&theme=github_dark&utcOffset=2" width="49%"/>
+</p>
+
+### 🏆 Contribution Streak & Highlights
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nour-2003&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="100%"/>
+</p>
+
+### 💻 Weekly Activity
+<p align="center">
+  <!-- WakaTime Stats (if you use it) -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nour-2003&theme=dark&hide_border=true" width="100%"/> -->
+  
+  <!-- Alternative: GitHub Activity Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=nour-2003&theme=github-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" width="100%"/>
+</p>
+
+### 📊 Repository & Code Stats
+<p align="center">
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=nour-2003&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged" width="100%"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nour-2003&theme=dark&hide_border=true&layout=compact&langs_count=8&exclude_repo=github-readme-stats" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</p>
+
+### 🌟 Repository Highlights
+<p align="center">
+  <!-- Most Starred Repos -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nour-2003&repo=Portfolio&theme=dark&show_owner=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nour-2003&repo=nour-2003&theme=dark&show_owner=true" width="49%"/>
 </p>
 ---
 
