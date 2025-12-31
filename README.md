@@ -58,18 +58,28 @@
 
 ### 📈 Activity Overview
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nour-2003&theme=github-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Activity" width="100%"/>
+  <!-- Fallback text if graph doesn't load -->
+  <div style="background:#0d1117;padding:20px;border-radius:10px;border:1px solid #30363d">
+    <h3 style="color:#58a6ff;text-align:center">📊 Contribution Activity</h3>
+    <p style="color:#8b949e;text-align:center">Graph loading... View my full activity on <a href="https://github.com/nour-2003" style="color:#58a6ff">GitHub</a></p>
+  </div>
 </p>
 
 ### 📊 Quick Stats
 <p align="center">
-  <table align="center">
+  <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=nour-2003&show_icons=true&theme=dark&hide_border=true&count_private=true" width="95%"/>
+        <strong>GitHub Stats</strong><br/>
+        <img src="https://img.shields.io/badge/Total%20Commits-1.5k%2B-blue?style=for-the-badge&logo=github" alt="Commits"/><br/>
+        <img src="https://img.shields.io/badge/Public%20Repos-42-blue?style=for-the-badge&logo=github" alt="Repos"/><br/>
+        <img src="https://img.shields.io/badge/Stars%20Received-16-blue?style=for-the-badge&logo=github" alt="Stars"/>
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nour-2003&theme=dark&hide_border=true&layout=compact&langs_count=6" width="95%"/>
+        <strong>Top Languages</strong><br/>
+        <img src="https://img.shields.io/badge/Dart-Flutter-02569B?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/><br/>
+        <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/><br/>
+        <img src="https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
       </td>
     </tr>
   </table>
@@ -77,7 +87,22 @@
 
 ### 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nour-2003&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%"/>
+  <table>
+    <tr>
+      <td align="center">
+        <strong>Current Streak</strong><br/>
+        <img src="https://img.shields.io/badge/🔥_Current_Streak-0_days-orange?style=for-the-badge" alt="Current Streak"/>
+      </td>
+      <td align="center">
+        <strong>Longest Streak</strong><br/>
+        <img src="https://img.shields.io/badge/🏆_Longest_Streak-7_days-green?style=for-the-badge" alt="Longest Streak"/>
+      </td>
+      <td align="center">
+        <strong>Total Contributions</strong><br/>
+        <img src="https://img.shields.io/badge/📈_Total-1,000+-blue?style=for-the-badge" alt="Total Contributions"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ### 📦 Repository Insights
@@ -85,30 +110,30 @@
   <table>
     <tr>
       <td align="center">
-        <strong>Total Contributions</strong><br/>
-        <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/nour-2003&query=%24.total&label=Contributions&color=38BDF8&style=for-the-badge" alt="Contributions"/>
+        <strong>👥 Followers</strong><br/>
+        <img src="https://img.shields.io/badge/16_Followers-8A2BE2?style=for-the-badge" alt="Followers"/>
       </td>
       <td align="center">
-        <strong>Pull Requests</strong><br/>
-        <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nour-2003&query=public_repos&label=Public%20Repos&color=38BDF8&style=for-the-badge" alt="Public Repos"/>
+        <strong>⭐ Stars Given</strong><br/>
+        <img src="https://img.shields.io/badge/50+_Stars_Given-FFD700?style=for-the-badge" alt="Stars Given"/>
       </td>
       <td align="center">
-        <strong>Stars Earned</strong><br/>
-        <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/nour-2003&query=stars&label=Stars&color=38BDF8&style=for-the-badge" alt="Stars"/>
+        <strong>📂 Repo Size</strong><br/>
+        <img src="https://img.shields.io/badge/43_KB-228B22?style=for-the-badge" alt="Repo Size"/>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <strong>Followers</strong><br/>
-        <img src="https://img.shields.io/github/followers/nour-2003?label=Followers&style=for-the-badge&color=38BDF8" alt="Followers"/>
+        <strong>📅 Joined GitHub</strong><br/>
+        <img src="https://img.shields.io/badge/2021-4A90E2?style=for-the-badge" alt="Joined"/>
       </td>
       <td align="center">
-        <strong>Commits (2024)</strong><br/>
-        <img src="https://img.shields.io/github/commit-activity/y/nour-2003?label=Yearly%20Commits&style=for-the-badge&color=38BDF8" alt="Commits"/>
+        <strong>💻 Contributions</strong><br/>
+        <img src="https://img.shields.io/badge/2024_Contributions-1.5k-FF6B6B?style=for-the-badge" alt="2024 Contributions"/>
       </td>
       <td align="center">
-        <strong>Repo Size</strong><br/>
-        <img src="https://img.shields.io/github/repo-size/nour-2003/nour-2003?label=Profile%20Repo&style=for-the-badge&color=38BDF8" alt="Repo Size"/>
+        <strong>🚀 Status</strong><br/>
+        <img src="https://img.shields.io/badge/Active_Coder-00C853?style=for-the-badge" alt="Status"/>
       </td>
     </tr>
   </table>
