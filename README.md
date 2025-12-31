@@ -55,24 +55,21 @@
 ---
 
 ## 📊 GitHub Stats
-
-### 📈 Profile Stats
 <p align="center">
-  <!-- Primary with fallback -->
-  <img src="https://stats.drewcov.tech/api?username=nour-2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-  <img src="https://stats.drewcov.tech/api/top-languages/?username=nour-2003&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165" alt="Top Languages"/>
+  <!-- Basic stats using shields.io -->
+  <img src="https://img.shields.io/github/stars/nour-2003?label=Stars&style=for-the-badge&color=blue" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/nour-2003?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
+  <br/>
+  <img src="https://img.shields.io/github/commit-activity/w/nour-2003?label=Weekly%20Commits&style=for-the-badge&color=blue" alt="Commits"/>
+  <img src="https://img.shields.io/github/repo-size/nour-2003/nour-2003?label=Repo%20Size&style=for-the-badge&color=blue" alt="Repo Size"/>
 </p>
 
-### 🔥 Contribution Streak
+## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://streak.demolab.com/?user=nour-2003&theme=tokyonight&hide_border=true&type=svg" alt="GitHub Streak"/>
+  <!-- Simple trophy badges -->
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/nour-2003&query=stars&label=Total%20Stars&style=for-the-badge&color=green"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/nour-2003&query=followers&label=Followers&style=for-the-badge&color=green"/>
 </p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nour-2003&theme=radical&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub Trophies"/>
-</p>
-
 ---
 
 <p align="center">
