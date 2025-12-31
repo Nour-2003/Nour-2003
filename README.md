@@ -56,22 +56,20 @@
 
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nour-2003&theme=algolia&no-frame=true&margin-w=15&cache_seconds=86400" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nour-2003&theme=algolia&no-frame=true&margin-w=15" />
 </p>
-
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nour-2003&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nour-2003&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nour-2003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nour-2003&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165"/>
 </p>
-
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nour-2003&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img src="https://streak-stats.demolab.com?user=nour-2003&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 ---
