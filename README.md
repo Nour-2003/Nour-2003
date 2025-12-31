@@ -71,7 +71,7 @@
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nour-2003&theme=radical&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub Trophies"/>
-</p>>
+</p>
 
 ---
 
