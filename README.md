@@ -62,8 +62,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nour-2003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nour-2003&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165"/>
+  <img src="https://stats.drewcov.tech/api?username=nour-2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://stats.drewcov.tech/api/top-languages/?username=nour-2003&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
 </p>
 ---
 
