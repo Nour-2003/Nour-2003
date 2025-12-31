@@ -55,20 +55,28 @@
 ---
 
 ## 📊 GitHub Stats
+
+### 🎯 Basic Metrics
 <p align="center">
-  <!-- Basic stats using shields.io -->
-  <img src="https://img.shields.io/github/stars/nour-2003?label=Stars&style=for-the-badge&color=blue" alt="Stars"/>
-  <img src="https://img.shields.io/github/followers/nour-2003?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
-  <br/>
-  <img src="https://img.shields.io/github/commit-activity/w/nour-2003?label=Weekly%20Commits&style=for-the-badge&color=blue" alt="Commits"/>
-  <img src="https://img.shields.io/github/repo-size/nour-2003/nour-2003?label=Repo%20Size&style=for-the-badge&color=blue" alt="Repo Size"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nour-2003&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" 
+       width="48%"
+       onerror="this.style.display='none'"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nour-2003&theme=dark&hide_border=true&layout=compact&langs_count=6&exclude_repo=github-readme-stats" 
+       width="48%"
+       onerror="this.style.display='none'"/>
 </p>
 
-## 🏆 GitHub Achievements
+### 🔥 Streak Stats
 <p align="center">
-  <!-- Simple trophy badges -->
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/nour-2003&query=stars&label=Total%20Stars&style=for-the-badge&color=green"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/nour-2003&query=followers&label=Followers&style=for-the-badge&color=green"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nour-2003&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
+       width="100%"
+       onerror="this.style.display='none'"/>
+</p>
+
+### ⚡ Alternative View
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nour-2003&theme=github_dark" width="100%"/>
 </p>
 ---
 
